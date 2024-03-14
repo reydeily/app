@@ -1,20 +1,7 @@
-import { Slide1 } from "./src/screams/Slide1";
-
+import { InitialPage } from "./src/screams/index"
 
 export default function App() {
   return (
-    <Slide1/>
+    <InitialPage/>
   );
 }
-
-
-
-
-//const styles = StyleSheet.create({
-  //container: {
-    //flex: 1,
-    //backgroundColor: '#fff',
-    //alignItems: 'center',
-    //justifyContent: 'center',
-  //},
-//});
